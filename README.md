@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/pinoo-star/pinoo-star/master/name.svg" alt="Alfie Aryananda" />
+  <img src="https://raw.githubusercontent.com/pinoo-star/pinoo-star/master/nama.svg" alt="Alfie Aryananda" />
 </h1>
 ### Hi! 👋 I'm Pinoo. 
 
